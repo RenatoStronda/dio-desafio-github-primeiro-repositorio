@@ -2,4 +2,4 @@
 desafio de projetos sobre Git/GitHub
 
 ## Links Úteis
-[Sintaxe Basica Mardowm](https://www.markdownguide.org/getting-started/)
+[Sintaxe Basica Mardowm](https://www.markdownguide.org/basic-syntax/)
