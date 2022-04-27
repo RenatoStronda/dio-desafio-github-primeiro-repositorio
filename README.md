@@ -1,5 +1,5 @@
 # Repositorio do desafio do projeto sobre Git/GitHub da dio
-desafio de projetos sobre Git/GitHub
+Repositorio Criado Para o Desafio De Projeto
 
 ## Links Úteis
 [Sintaxe Basica Mardowm](https://www.markdownguide.org/basic-syntax/)
